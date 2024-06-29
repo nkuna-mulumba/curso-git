@@ -1,2 +1,1 @@
-Eu sou um
-fui alterado para comprovar o comando git diff
+Sempre sou o primeiro arquivo para testar o git diff
