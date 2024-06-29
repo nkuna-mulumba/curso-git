@@ -1,1 +1,2 @@
-EU sou um
+Eu sou um
+fui alterado para comprovar o comando git diff
