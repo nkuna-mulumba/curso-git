@@ -1,1 +1,6 @@
 Sempre sou o primeiro arquivo para testar o git diff
+Este a linha dois
+Depois adicionei a linha tres 
+Devo adicionar mais a linha quatro
+Por fim a linha cinco.
+
