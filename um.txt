@@ -1,4 +1,4 @@
-Sempre sou o primeiro arquivo para testar o git diff
+Depois de testar o git diff, agora tento ver o problema de conflito.
 Este a linha dois
 Depois adicionei a linha tres 
 Devo adicionar mais a linha quatro
