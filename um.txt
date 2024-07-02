@@ -1,4 +1,4 @@
-Sempre sou o primeiro arquivo para testar o git diff
+Corrigido o arquivo anterior que foi para provar o git diff
 Este a linha dois
 Depois adicionei a linha tres 
 Devo adicionar mais a linha quatro
