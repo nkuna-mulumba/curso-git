@@ -1,4 +1,8 @@
+PESSOA DOIS.
 Depois de testar o git diff, agora tento ver o problema de conflito.
+PESSOA UM.
+Corrigido o arquivo anterior que foi para provar o git diff
+RESTO QUE JA HAVIA NO ARQUIVO.
 Este a linha dois
 Depois adicionei a linha tres 
 Devo adicionar mais a linha quatro
