@@ -1,1 +1,1 @@
-Eu sou texto para testar no GitHub.
+Esta linha antes era: Eu sou texto para testar no GitHub.
