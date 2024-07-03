@@ -1,1 +1,2 @@
 Eu sou texto para testar no GitHub.
+Segunda linha do arquivo (test adicionado hoje 4 de Julho)
