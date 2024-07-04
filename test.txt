@@ -3,4 +3,3 @@ Eu sou texto para testar no GitHub.
 Segunda linha do arquivo (test adicionado hoje 4 de Julho)
 Usuario UM
 Esta linha antes era: Eu sou texto para testar no GitHub.
-TESTAR GIT REVERT
